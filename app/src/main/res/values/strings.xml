@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testFireBaseWithRecyclerView</string>
+    <string name="title_activity_news_web_view">NewsWebView</string>
+</resources>
